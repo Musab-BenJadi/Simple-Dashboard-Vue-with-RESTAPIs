@@ -1,4 +1,4 @@
-# 🚀 Vue 3 Admin Dashboard
+# 🚀 Simple-Dashboard-Vue-with-RESTAPIs
 
 A modern, responsive Admin Dashboard built with **Vue 3, Vite, Tailwind CSS v4, and Vue Router**. This project is a hands-on learning experience focused on building a real-world dashboard using Vue.js and modern frontend technologies.
 
@@ -75,7 +75,7 @@ git clone https://github.com/Musab-BenJadi/Simple-Dashboard-Vue-with-RESTAPIs.gi
 ### 2. Navigate to the project folder
 
 ```bash
-cd vue3-admin-dashboard
+cd Simple-Dashboard-Vue-with-RESTAPIs
 ```
 
 ### 3. Install dependencies
